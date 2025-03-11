@@ -1,0 +1,103 @@
+    1  brew install --cask dbeaver-community
+    2  brew install --cask dbeaver-community
+    3  brew install --cask dbeaver-community
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    6  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    7  clear
+    8  ls
+    9  cls
+   10  clear
+   11  ls
+   12  cd desktop
+   13  ls
+   14  cd ..
+   15  cd desktop
+   16  cd~
+   17  cd ~
+   18  cd desktop
+   19  ls
+   20  cd Тест\ лого/
+   21  pwd
+   22  cd ..
+   23  mkdir Lesson
+   24  clear
+   25  touch empty.txt
+   26  ls
+   27  vim empty.txt
+   28  nano empty.txt
+   29  cat empty.txt
+   30  cp empty.txt
+   31  pwd
+   32  cp /Users/mariadonets/desktop/empty.txt /Users/mariadonets/downloads
+   33  mv cp /Users/mariadonets/desktop/empty.txt /Users/mariadonets/downloads
+   34  rm Lesson
+   35  ping
+   36  ping google.cm
+   37  date
+   38  system_profiler
+   39  clear
+   40  df -h
+   41  clear
+   42  ifconfig
+   43  clear
+   44  cd GIT
+   45  cd desktop
+   46  cd GIT
+   47  git congig --global user.name "Donets Maria"
+   48   clear
+   49  history -c && rm ~/.bash_history
+   50  git config --global user.name"Donets Maria"
+   51  man xcode-select
+   52  git config --global user.name "Donets Maria"\n
+   53  git --version
+   54  cd desktop
+   55  cd git
+   56  git config --global user.name "Donets Maria"
+   57  git config --global user.email donets442@gmail.com
+   58  git clone https://github.com/MariaD442/Practice6/blob/e694d278c6f819a2b2479c983b147de28a135013/README.md#hw_10 
+   59  git clone https://github.com/MariaD442/Practice6.git
+   60  cd practice6
+   61  touch text_ignore.txt
+   62  cd desktop
+   63  cd git
+   64  git clone https://github.com/MariaD442/HW_10.git
+   65  cd hw_10
+   66  touch text_ignore.txt
+   67  git status
+   68  git add text_ignore.txt
+   69  git status
+   70  git commit -m "New file created"
+   71  nano gitignore.txt
+   72  git ststus
+   73  git status
+   74  git add gitignore.txt
+   75  git status
+   76  git commit -m "New file created"
+   77  touch main_test.txt
+   78  git add main_test.txt
+   79  git status
+   80  git commit
+   81  cd desktop
+   82  cd git
+   83  cd git
+   84  git status
+   85  cd hw_10
+   86  git status
+   87  git commit -m "New file"
+   88  git branch develop
+   89  checkout develop
+   90  git checkout develop
+   91  touch develop_test.txt
+   92  git add
+   93  git add develop_test.txt
+   94  git status
+   95  git commit -m "New branch and file"
+   96  nano develop_test.txt 
+   97  git status
+   98  git add develop_test.txt
+   99  git status
+  100  git commit -m "Changes in file"
+  101  git checkout main
+  102  git merge develop main
+  103  git log
